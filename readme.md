@@ -1,2 +1,2 @@
 # Git practice
-# creating my first Github repo
+#creating my first Github repo
